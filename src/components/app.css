@@ -1,0 +1,25 @@
+.container{
+    position: relative;
+    height: 100%vh;
+    width: 100%;
+}
+.title{
+    position: absolute;
+    width: 40rem;
+    right: calc( 60% - 32rem );
+    text-align: center;
+    font-size: 3rem;
+    top: 15rem;
+}
+.reactImg{
+    position: absolute;
+    width: 30rem;
+    right: calc( 97% - 30rem );
+    top: 3rem;
+}
+.dockerImg{
+    position: absolute;
+    width: 35rem;
+    right: calc( 17% - 20rem );
+    
+}
